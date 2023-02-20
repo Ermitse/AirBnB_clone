@@ -215,4 +215,3 @@ e952b772-80a5-41e9-b728-6bc3dc5c21b4
 ## Authors
 
 - [Ermias Michael](https://github.com/Ermitse/)
-- [Haileab Woldemariam](https://github.com/HaileabWolde)
